@@ -21,5 +21,5 @@ pip install flask
 echo -e "${G}[+] Preparing log files...${NC}"
 touch log.txt link.txt
 
-echo -e "${G}[+] SETUP COMPLETE. Run 'python app.py' to start.${NC}"
+echo -e "${G}[+] SETUP COMPLETE. Run 'python3 Server.py' to start.${NC}"
 
