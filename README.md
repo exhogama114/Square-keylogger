@@ -11,7 +11,5 @@ A professional grade Cvv phishing tool built with **Python (Flask)** and **Cloud
 
 
 ### 1. Permissions
-First, make the install script and the main app executable:
-```bash
-chmod +x install.sh
+First, make the instal
 
